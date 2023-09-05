@@ -1,0 +1,47 @@
+{
+    "Chefs": [
+      {
+        "Name": "Chef John Smith",
+        "Picture": "https://postimg.cc/14GVpXfw",
+        "YearsOfExperience": 15,
+        "NumberOfRecipes": 75,
+        "Likes": 4500
+      },
+      {
+        "Name": "Chef Emily Johnson",
+        "Picture": "https://postimg.cc/D4TW9kYS",
+        "YearsOfExperience": 12,
+        "NumberOfRecipes": 60,
+        "Likes": 3800
+      },
+      {
+        "Name": "Chef Michael Davis",
+        "Picture": "https://postimg.cc/7G7GtYXv",
+        "YearsOfExperience": 20,
+        "NumberOfRecipes": 90,
+        "Likes": 5500
+      },
+      {
+        "Name": "Chef Sarah Adams",
+        "Picture": "https://example.com/chef-sarah-adams.jpg",
+        "YearsOfExperience": 10,
+        "NumberOfRecipes": 50,
+        "Likes": 3200
+      },
+      {
+        "Name": "Chef David Wilson",
+        "Picture": "https://postimg.cc/MnKBZwZR",
+        "YearsOfExperience": 18,
+        "NumberOfRecipes": 80,
+        "Likes": 4900
+      },
+      {
+        "Name": "Chef Lisa Turner",
+        "Picture": "https://example.com/chef-lisa-turner.jpg",
+        "YearsOfExperience": 14,
+        "NumberOfRecipes": 70,
+        "Likes": 4200
+      }
+    ]
+  }
+  

@@ -10,6 +10,12 @@ app.get('/', (req, res) => {
   res.send('Hello, Express.js!');
 });
 
+const categories=require('./data/categories.json')
+//
+app.get('/categories', (req, res) => {
+    res.send(categories);
+  });
+
 // Start the server and listen on the defined port
 app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
