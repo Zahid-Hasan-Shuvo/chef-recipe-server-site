@@ -1,47 +1,52 @@
-{
-    "Chefs": [
-      {
+ [
+      { 
+        "_id": 1,
         "Name": "Chef John Smith",
-        "Picture": "https://postimg.cc/14GVpXfw",
+        "Picture":"https://ibb.co/pRzLnr2",
         "YearsOfExperience": 15,
         "NumberOfRecipes": 75,
         "Likes": 4500
       },
       {
+        "_id": 2,
         "Name": "Chef Emily Johnson",
-        "Picture": "https://postimg.cc/D4TW9kYS",
+        "Picture": "../assests/chef-2.jpg",
         "YearsOfExperience": 12,
         "NumberOfRecipes": 60,
         "Likes": 3800
       },
       {
+        "_id": 3,
         "Name": "Chef Michael Davis",
-        "Picture": "https://postimg.cc/7G7GtYXv",
+        "Picture": "../assests/chef-3.jpg",
         "YearsOfExperience": 20,
         "NumberOfRecipes": 90,
         "Likes": 5500
       },
       {
+        "_id": 4,
         "Name": "Chef Sarah Adams",
-        "Picture": "https://example.com/chef-sarah-adams.jpg",
+        "Picture":  "../assests/chef-4.jpg",
         "YearsOfExperience": 10,
         "NumberOfRecipes": 50,
         "Likes": 3200
       },
       {
+        "_id": 5,
         "Name": "Chef David Wilson",
-        "Picture": "https://postimg.cc/MnKBZwZR",
+        "Picture": "../assests/chef-5.jpg",
         "YearsOfExperience": 18,
         "NumberOfRecipes": 80,
         "Likes": 4900
       },
       {
+        "_id": 6,
         "Name": "Chef Lisa Turner",
-        "Picture": "https://example.com/chef-lisa-turner.jpg",
+        "Picture": "../assests/chef-6.jpg",
         "YearsOfExperience": 14,
         "NumberOfRecipes": 70,
         "Likes": 4200
       }
     ]
-  }
+  
   
